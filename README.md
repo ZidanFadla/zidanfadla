@@ -1,4 +1,4 @@
-# Hi, I'm Zidan Fadla 👋
+# Hi, I'm Zidan Fadla 
 
 ### Informatics Student | Aspiring Software Developer
 
@@ -8,12 +8,12 @@ I enjoy learning how software systems work, solving problems through code, and b
 
 ---
 
-## 🚀 Currently
+##  Currently
 
-- 🔭 Working on an employee attendance system
-- 🌱 Improving my Flutter and Laravel skills
-- 🧠 Learning software engineering and problem solving
-- 💻 Building projects to strengthen my development skills
+-  Working on an employee attendance system
+-  Improving my Flutter and Laravel skills
+-  Learning software engineering and problem solving
+-  Building projects to strengthen my development skills
 
 ---
 
@@ -38,15 +38,15 @@ I enjoy learning how software systems work, solving problems through code, and b
 
 ---
 
-## ⭐ Featured Projects
+##  Featured Projects
 
-### 📱 Employee Attendance System
+###  Employee Attendance System
 
 A mobile-based employee attendance system designed to simplify attendance management using face recognition and geolocation.
 
 **Tech:** Flutter · Laravel · Python · DeepFace · REST API · Database
 
-### 🎓 Smart Edu System
+###  Smart Edu System
 
 A web-based school grading management system for managing students, teachers, subjects, and academic grades.
 
@@ -54,7 +54,7 @@ A web-based school grading management system for managing students, teachers, su
 
 ---
 
-## 🎯 What I'm Learning
+##  What I'm Learning
 
 - Mobile Application Development
 - Backend Development
