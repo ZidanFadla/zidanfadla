@@ -1,18 +1,18 @@
-# Hai, saya Zidan Fadla
+# Hi, I'm Zidan Fadla
 
-**Mahasiswa Informatika | Calon Software Developer**
+**Informatics Student | Aspiring Software Developer**
 
-Saya seorang mahasiswa Informatika yang fokus pada pengembangan mobile dengan Flutter dan membangun aplikasi web fullstack dengan Laravel. Saya senang memahami cara kerja sistem perangkat lunak, memecahkan masalah melalui kode, dan membangun proyek yang mengasah kemampuan pengembangan saya.
+I'm an Informatics student focused on mobile development with Flutter and building fullstack web applications with Laravel. I enjoy understanding how software systems work, solving problems through code, and building projects that sharpen my development skills.
 
 ---
 
-## Minat
+## Interests
 
-- Pengembangan Aplikasi Mobile
-- Pengembangan Fullstack Web
+- Mobile Application Development
+- Fullstack Web Development
 - RESTful API
-- Perancangan Basis Data
-- Rekayasa Perangkat Lunak
+- Database Design
+- Software Engineering
 - Problem Solving
 
 ---
@@ -42,6 +42,6 @@ Saya seorang mahasiswa Informatika yang fokus pada pengembangan mobile dengan Fl
 
 ---
 
-## Hubungi Saya
+## Get in Touch
 
-Jangan ragu untuk menghubungi saya jika ingin berkolaborasi atau sekadar berdiskusi tentang pengembangan perangkat lunak.
+Feel free to reach out if you'd like to collaborate or just talk about software development.
