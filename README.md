@@ -1,18 +1,18 @@
-# Hi, I'm Zidan Fadla
+# Hai, saya Zidan Fadla
 
-**Informatics Student | Aspiring Software Developer**
+**Mahasiswa Informatika | Calon Software Developer**
 
-I'm an Informatics student focused on mobile development with Flutter and building fullstack web applications with Laravel. I enjoy understanding how software systems work, solving problems through code, and building projects that sharpen my development skills.
+Saya seorang mahasiswa Informatika yang fokus pada pengembangan mobile dengan Flutter dan membangun aplikasi web fullstack dengan Laravel. Saya senang memahami cara kerja sistem perangkat lunak, memecahkan masalah melalui kode, dan membangun proyek yang mengasah kemampuan pengembangan saya.
 
 ---
 
-## Interests
+## Minat
 
-- Mobile Application Development
-- Backend Development
+- Pengembangan Aplikasi Mobile
+- Pengembangan Fullstack Web
 - RESTful API
-- Database Design
-- Software Engineering
+- Perancangan Basis Data
+- Rekayasa Perangkat Lunak
 - Problem Solving
 
 ---
@@ -24,7 +24,7 @@ I'm an Informatics student focused on mobile development with Flutter and buildi
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Backend Development**
+**Fullstack Development with Laravel**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -42,6 +42,6 @@ I'm an Informatics student focused on mobile development with Flutter and buildi
 
 ---
 
-## Get in Touch
+## Hubungi Saya
 
-Feel free to reach out if you'd like to collaborate or just talk about software development.
+Jangan ragu untuk menghubungi saya jika ingin berkolaborasi atau sekadar berdiskusi tentang pengembangan perangkat lunak.
