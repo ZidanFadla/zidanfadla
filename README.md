@@ -1,6 +1,6 @@
 # Hi, I'm Zidan Fadla
 
-**Informatics Student | Aspiring Software Developer**
+**Informatics Graduate | Aspiring Software Developer**
 
 I'm an Informatics student focused on mobile development with Flutter and building fullstack web applications with Laravel. I enjoy understanding how software systems work, solving problems through code, and building projects that sharpen my development skills.
 
